@@ -1,4 +1,4 @@
-sudo: false # Run in a container
+sudo: required # Run in a container
 services:
 - docker # Allow running docker commands
 
